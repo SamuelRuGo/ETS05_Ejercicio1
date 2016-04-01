@@ -12,7 +12,7 @@ package dam_ed04_actividad;
 public class Banquero {
     private String dni;
     private String nombre;
-    private String apellidos;
+    private String apellidos; 
 
     /**
      * @return the dni

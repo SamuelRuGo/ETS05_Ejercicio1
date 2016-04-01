@@ -62,28 +62,38 @@ public class CCuenta {
         setSaldo(getSaldo() - cantidad);
     }
 
-
+    /**
+     * @return the obtenerCuenta
+     */
     public String obtenerCuenta()
     {
         return getCuenta();
     }
 
-
+    /**
+     * @return the nombre
+     */
     public String getNombre() {
         return nombre;
     }
 
-
+     /**
+     * @param nombre the cuenta to set
+     */
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
 
-
+    /**
+     * @return the tipoInterés
+     */
     public double getTipoInterés() {
         return tipoInterés;
     }
 
-
+      /**
+     * @param tipoInterés the cuenta to set
+     */
     public void setTipoInterés(double tipoInterés) {
         this.tipoInterés = tipoInterés;
     }

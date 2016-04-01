@@ -10,6 +10,10 @@ package dam_ed04_actividad;
  * @author Samuel
  */
 public class Empleado {
+     /**
+ * 
+ * Estos son los parámetros de la clase Empleado.
+ */
     private String dni;
     private String nombre;
     private String apellidos;

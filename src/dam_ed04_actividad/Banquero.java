@@ -6,10 +6,14 @@
 package dam_ed04_actividad;
 
 /**
- *
+ * 
  * @author Samuel
  */
 public class Banquero {
+ /**
+ * 
+ * Estos son los parámetros de la clase banquero.
+ */
     private String dni;
     private String nombre;
     private String apellidos; 

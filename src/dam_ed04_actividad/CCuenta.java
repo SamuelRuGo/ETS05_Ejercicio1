@@ -8,7 +8,10 @@ package dam_ed04_actividad;
 
 public class CCuenta {
 
-
+ /**
+ * 
+ * Estos son los parámetros de la clase CCuenta.
+ */
     private String nombre;
     private String cuenta;
     private double saldo;
